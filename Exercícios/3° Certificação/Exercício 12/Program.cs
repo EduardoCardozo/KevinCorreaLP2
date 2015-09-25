@@ -65,7 +65,7 @@ namespace Exercício_12
 
            }
 
-           if (funcTip == "terceirizado")
+           else (funcTip == "terceirizado")
            {
                Terceirizado terc = new Terceirizado();
                Console.Write("Nome: ");
